@@ -40,4 +40,41 @@ public class ModBlocks {
             BlockBehaviour.Properties.of(Material.METAL)
                                      .strength(3f)
                                      .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> BOILER_HEATER = registerBlock("boiler_heater", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> BOILER_VALVE = registerBlock("boiler_valve", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> PRESSURE_PIPE = registerBlock("pressure_pipe", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> REFINERY_FILTER = registerBlock("refinery_filter", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> REFINERY_FRAME = registerBlock("refinery_frame", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> REFINERY_GAUGE = registerBlock("refinery_gauge", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+    public static final RegistryObject<Block> REFINERY_VALVE = registerBlock("refinery_valve", () -> new Block(
+            BlockBehaviour.Properties.of(Material.METAL)
+                                     .strength(3f)
+                                     .requiresCorrectToolForDrops()), ModCreativeModeTab.OILANDSTUFF_TAB);
+
+
 }

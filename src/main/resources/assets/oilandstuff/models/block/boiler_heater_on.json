@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "oilandstuff:block/boiler_frame",
+    "front": "oilandstuff:block/boiler_heater_on",
+    "side": "oilandstuff:block/boiler_frame"
+  }
+}

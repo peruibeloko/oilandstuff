@@ -1,5 +1,19 @@
 {
   "item.oilandstuff.assembler": "Assembler",
+  "item.oilandstuff.coal_dust": "Coal Dust",
+  "item.oilandstuff.filter": "Filter",
+  "item.oilandstuff.steel_ingot": "Steel Ingot",
+  "item.oilandstuff.steel_mesh": "Steel Mesh",
+  "item.oilandstuff.steel_plate": "Steel Plate",
+  "item.oilandstuff.steel_strand": "Steel Strand",
+  "item.oilandstuff.valve": "Valve",
   "block.oilandstuff.boiler_frame": "Boiler Frame",
+  "block.oilandstuff.boiler_heater": "Boiler Heater",
+  "block.oilandstuff.boiler_valve": "Boiler Valve",
+  "block.oilandstuff.pressure_pipe": "Pressure Pipe",
+  "block.oilandstuff.refinery_filter": "Refinery Filter",
+  "block.oilandstuff.refinery_frame": "Refinery Frame",
+  "block.oilandstuff.refinery_gauge": "Refinery Gauge",
+  "block.oilandstuff.refinery_valve": "Refinery Valve",
   "itemGroup.oilandstufftab": "Oil And Stuff"
 }

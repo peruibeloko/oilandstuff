@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PFP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "oilandstuff:steel_plate"
+    },
+    "F": {
+      "item": "oilandstuff:filter"
+    }
+  },
+  "result": {
+    "item": "oilandstuff:refinery_filter"
+  }
+}

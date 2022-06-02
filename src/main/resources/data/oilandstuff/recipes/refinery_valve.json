@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PVP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "oilandstuff:steel_plate"
+    },
+    "V": {
+      "item": "oilandstuff:valve"
+    }
+  },
+  "result": {
+    "item": "oilandstuff:refinery_valve"
+  }
+}
